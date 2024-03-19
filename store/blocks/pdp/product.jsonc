@@ -109,12 +109,18 @@
       "sku-selector",
       "product-quantity",
       "product-assembly-options",
+      "size-guide-refactor",
       "product-gifts",
       "flex-layout.row#buy-button",
       "availability-subscriber",
       "shipping-simulator",
       "share#default"
     ]
+  },
+  "size-guide-refactor":{
+    "props":{
+      "brand":"TRIPLE 8"
+    }
   },
 
   "flex-layout.row#product-name": {
