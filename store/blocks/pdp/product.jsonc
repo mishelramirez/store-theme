@@ -119,7 +119,8 @@
   },
   "size-guide-refactor":{
     "props":{
-      "brand":"TRIPLE 8"
+      "brand":"TRIPLE 8",
+      "images": "https://dummyimage.com/600x400/000/fff"
     }
   },
 
